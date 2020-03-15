@@ -1,4 +1,5 @@
 # ctf-template
-I use this when I'm doing CTFs and want to keep a record of what I've done, and how I do it.
 
-Feel free to use.
+This template contains a number of commands that I use on a regular basis, although I recommend trying to memorise the most used commands.
+
+I also use this template to keep track of the CTFs I've done, as well as taking notes.
